@@ -1,0 +1,11 @@
+{
+  "name": "EDDN.js",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./src/worker"
+  },
+  "dependencies": {
+    "influx": "~3.3.0",
+    "zmq": "*"
+  }
+}

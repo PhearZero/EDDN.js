@@ -1,3 +1,9 @@
+#PhearZero Ignores
+.vagrant
+.idea
+*.iml
+
+#GitHub Node Ignore
 # Logs
 logs
 *.log
