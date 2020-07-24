@@ -5,7 +5,7 @@
     "start": "node ./src/worker"
   },
   "dependencies": {
-    "influx": "~3.3.0",
+    "influx": "~5.5.3",
     "zmq": "*"
   }
 }
